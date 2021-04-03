@@ -4,4 +4,4 @@ This repository provides a PyTorch implementation of the paper [ Structured Cont
 
 ## Demo
 
-![image](1-1.gif)
+![image](1-1.gif)![image](1-2.gif)
