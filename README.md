@@ -4,5 +4,5 @@ This repository provides a PyTorch implementation of the paper [ Structured Cont
 
 ## Demo
 
-<img src="1-1.gif" width="30%"><img src="1-2.gif" width="30%">
+<img src="1-1.gif" width="30%">   <img src="1-2.gif" width="30%">
 
