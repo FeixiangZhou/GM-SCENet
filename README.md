@@ -6,7 +6,7 @@ This repository provides a PyTorch implementation of the paper [ Structured Cont
 
 <img src="1-1.gif" width="40%">           <img src="1-2.gif" width="40%">
 
-##Requirements
+## Requirements
 Tested with:
 * PyTorch 1.4.0
 
@@ -14,7 +14,7 @@ Tested with:
 
 * Python 3.6.8
 
-##Data Preparation
+## Data Preparation
 * Download the  data from [DeepLabCut Mouse Pose](https://zenodo.org/record/4008504#.YQaXwpNKjDJ) and [DeepPoseKit Animal Pose](https://github.com/jgraving/DeepPoseKit-Data/tree/master/datasets). Then put them under the data directory:
 
 				-labeled-data\  
@@ -40,7 +40,7 @@ Tested with:
 ## Ethical Proof
 All experimental procedures were performed in accordance with the Guidance on the Operation of the Animals (Scientific Procedures) Act, 1986 (UK) and approved by the Queen’s University Belfast Animal.
 
-##Citation
+## Citation
 If you find this repository useful, please cite our paper:
 ```
 @article{zhou2021structured,
