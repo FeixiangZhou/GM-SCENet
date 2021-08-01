@@ -3,7 +3,7 @@
 This repository provides a PyTorch implementation of the paper [ Structured Context Enhancement Network for Mouse Pose Estimation](https://ieeexplore.ieee.org/abstract/document/9492104). 
 
 <p align="center">
-<img src="pipeline.png" width="70%">
+<img src="pipeline.png" width="80%">
 </p>
 
 ## Demo
