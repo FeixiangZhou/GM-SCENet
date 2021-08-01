@@ -18,10 +18,13 @@ Tested with:
 * Download the  data from [DeepLabCut Mouse Pose](https://zenodo.org/record/4008504#.YQaXwpNKjDJ) and [DeepPoseKit Animal Pose](https://github.com/jgraving/DeepPoseKit-Data/tree/master/datasets). Then put them under the data directory:
 	-labeled-data\  
 	  -mouse\  
+	  
               ...
-	  -flyimage\  
+	  -flyimage\ 
+	  
               ...   
           -zebraimage\  
+	  
               ...
               
 ## Training
