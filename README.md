@@ -16,17 +16,16 @@ Tested with:
 
 ## Data Preparation
 * Download the  data from [DeepLabCut Mouse Pose](https://zenodo.org/record/4008504#.YQaXwpNKjDJ) and [DeepPoseKit Animal Pose](https://github.com/jgraving/DeepPoseKit-Data/tree/master/datasets). Then put them under the data directory:
+	```
 	-labeled-data\  
+	
 	  -mouse\  
-	  
-              ...
+           ...
 	  -flyimage\ 
-	  
-              ...   
-          -zebraimage\  
-	  
-              ...
-              
+           ...   
+	  -zebraimage\  
+           ...
+  ```            
 ## Training
 
 * Before running `train.py`, we need to compile Directionmax operation used in our paper, which is inspired by the corner pooling scheme in [CornerNet](https://github.com/princeton-vl/CornerNet).
