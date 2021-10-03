@@ -20,8 +20,8 @@ from utilis.checkpointsave import savecheckpoint, saveepochcheckpont, saveepochc
 from utilis.netparameter160 import config
 
 from utilis.metrics import PCK
-# from AttentionCRFmodel.mainStackedHourGlass_full_finalcas2_C1GM2 import *
-from AttentionCRFmodel.mainStackedHourGlass_full_finalcas2_C3GM2 import *
+# from model.mainStackedHourGlass_full_finalcas2_C1GM2 import *
+from model.mainStackedHourGlass_full_finalcas2_C3GM2 import *
 
 from tensorboardX import SummaryWriter
 
